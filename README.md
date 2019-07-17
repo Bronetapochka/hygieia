@@ -1,3 +1,3 @@
 # hygieia
 
-test test
+test
